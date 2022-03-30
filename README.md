@@ -1,16 +1,13 @@
-# spotify
+Simple app spotify
 
-A new Flutter project.
+Use:
+main flutter widgets
+working with StatefulWidget
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project [spotify](https://github.com/Antonyakov/spotify).
+   
+<li align="center">
+    <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664610.png" width="400" alt="accessibility text">  
+    <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664649.png" width="400" alt="accessibility text">
+    <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664700.png" width="400" alt="accessibility text">
+</li>
